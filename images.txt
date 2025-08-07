@@ -3,5 +3,6 @@ alpine
 mirotalk/c2c:latest
 coturn/coturn:latest
 mumblevoip/mumble-server:latest
+rankenstein/mumble-web:latest
 --platform linux/arm64 appe233/ts3audiobot
 --platform linux/amd64 appe233/ts3audiobot
