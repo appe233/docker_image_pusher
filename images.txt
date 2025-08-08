@@ -1,9 +1,5 @@
 nginx
 alpine
-mirotalk/c2c:latest
-mirotalk/p2p:latest
-coturn/coturn:latest
-mumblevoip/mumble-server:latest
-rankenstein/mumble-web:latest
+mirotalk/sfu:latest
 --platform linux/arm64 appe233/ts3audiobot
 --platform linux/amd64 appe233/ts3audiobot
