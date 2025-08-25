@@ -3,3 +3,4 @@ alpine
 mirotalk/sfu:latest
 --platform linux/arm64 appe233/ts3audiobot
 --platform linux/amd64 appe233/ts3audiobot
+synctvorg/synctv:latest
